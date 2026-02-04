@@ -1,7 +1,5 @@
 import mongoose from 'mongoose';
 import bcrypt from 'bcryptjs';
-import { time } from 'console';
-import { email } from 'zod';
 
 const userSchema = new mongoose.Schema({
   fullname: {
