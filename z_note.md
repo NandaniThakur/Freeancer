@@ -1,3 +1,7 @@
+// test readme 
+
+
+
 freelancer-portal/
 ├── app/                              # Next.js frontend + HTTP entrypoints
 │   ├── layout.tsx
